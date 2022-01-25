@@ -58,7 +58,6 @@ Un module composante que nous utilisons régulièrement est celui des "cards"/ca
 - zone contenu
   - background blanc
   - marge interne h/b/d/g 20px
-  - hover background blanc
 
 <details>
 <summary>Cliquez-ici pour voir le résultat</summary>
